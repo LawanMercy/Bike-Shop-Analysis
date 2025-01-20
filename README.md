@@ -26,7 +26,7 @@ The datasets used for this analysis are "bike_share_yr_0.csv" file, "bike_share_
 
 ### Tools 
 
-- Microsoft SQL - Data cleaning,transformations. [Download here](https://microsoft.com)
+- Microsoft SQL - Data cleaning,transformations. 
 - Power BI - Dax Functions,Creating reports.
 
 ### Data Cleaning and Preparation
