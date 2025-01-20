@@ -10,8 +10,8 @@
 - [Data Analysis](#data-analysis)
 - [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
-- [Recommended Strategies](recommended-strategies)
-- [Limitations](limitations)
+- [Recommended Strategies](#recommended-strategies)
+- [Limitations](#limitations)
 
 ### Project Overview
 
