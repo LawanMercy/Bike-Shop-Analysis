@@ -14,7 +14,7 @@
 - [Limitations](#limitations)
 
 ### Project Overview
-
+---
 This data analysis project aim to provide insight into the sales performance of a bike store over the past years. By analyzing various aspects of the sales data.The Stakeholder requirements are( Hourly Revenue Analysis, Profit and Revenue Trends, Seasonal Revenue). We seek to identify trends, make data-driven recommmendations, and gain a deeper understanding of the shop's performance.
 
 ![dashboard](https://github.com/user-attachments/assets/5d38b2b1-6f6f-403c-a8c4-5953f5402d65)
