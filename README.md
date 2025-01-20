@@ -6,10 +6,12 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(eda))
-- 
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
-- 
+- [Recommended Strategies](recommended-strategies)
+- [Limitations](limitations)
 
 ### Project Overview
 
@@ -35,7 +37,7 @@ In the initial data preparation phase, I performed the following tasks:
  2. Handling missing values (But we had none).
  3. Data cleaning and formatting.
  
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 
 EDA invovled exploring the sales data to answer key questions asked by the shareholders, which are:
 
@@ -69,7 +71,7 @@ left join cost_table b
 on a.yr = b.yr
 ```
 
-### Results/Findings
+### Results and Findings
 
 #### Question 1
 
