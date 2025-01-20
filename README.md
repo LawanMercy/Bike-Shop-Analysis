@@ -15,6 +15,9 @@
 
 This data analysis project aim to provide insight into the sales performance of a bike store over the past years. By analyzing various aspects of the sales data.The Stakeholder requirements are( Hourly Revenue Analysis, Profit and Revenue Trends, Seasonal Revenue). We seek to identify trends, make data-driven recommmendations, and gain a deeper understanding of the shop's performance.
 
+![dashboard](https://github.com/user-attachments/assets/5d38b2b1-6f6f-403c-a8c4-5953f5402d65)
+
+
 ### Data Sources
 
 The datasets used for this analysis are "bike_share_yr_0.csv" file, "bike_share_yr_1.csv" file, "cost_table.csv" file, containing detailed information about each sales made by the company.
