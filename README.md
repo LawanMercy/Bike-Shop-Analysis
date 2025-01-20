@@ -103,7 +103,7 @@ Price elasticity = increase in demand/increase in price = 64%/25% = 2.56%
 
 ### Recommendations
 
-Moderate Increase: the increase in price between 2021 and 2022 is 25%, which is significantly high, a moderate increase should be considered to avoid instances where demand starts plunging. A suggestion of an increase between the range of 10 – 15% could be a safe ground without emerging in significant loss of customers.
+**Moderate Increase:** the increase in price between 2021 and 2022 is 25%, which is significantly high, a moderate increase should be considered to avoid instances where demand starts plunging. A suggestion of an increase between the range of 10 – 15% could be a safe ground without emerging in significant loss of customers.
 
 #### Assumption of the 10-15% increase in price setting:
 
@@ -113,14 +113,14 @@ Moderate Increase: the increase in price between 2021 and 2022 is 25%, which is 
 
 ### Recommended Strategies
 
-- Long Term Performance Monitoring: The KPI trend shows consistent growth in riders and profits over time. Maintain efforts on customer acquisition while monitoring profit margins to ensure sustainability.
-- Segmented Pricing Strategy: putting into consideration different pricing for casuals as against registered users. Also, since profit peaks on Wednesday and Fridays, plan campaigns or events to further boost sales on these days.
-- Conduct Market Analysis: conducting in-depth market research to further understand the customers’ satisfaction, the current market competitors, threats and the economic environment at large. This will aid in determining whether to adhere to the suggested recommendations on price increments.
+- **Long Term Performance Monitoring:** The KPI trend shows consistent growth in riders and profits over time. Maintain efforts on customer acquisition while monitoring profit margins to ensure sustainability.
+- **Segmented Pricing Strategy:** putting into consideration different pricing for casuals as against registered users. Also, since profit peaks on Wednesday and Fridays, plan campaigns or events to further boost sales on these days.
+- **Conduct Market Analysis:** conducting in-depth market research to further understand the customers’ satisfaction, the current market competitors, threats and the economic environment at large. This will aid in determining whether to adhere to the suggested recommendations on price increments.
 #### Continuous Monitoring and Adjustments through data driven decision:
 
-•	Expand Data Analysis: Integrate customer feedback, weather data, and local events into your analysis to further understand revenue patterns.
+•	**Expand Data Analysis:** Integrate customer feedback, weather data, and local events into your analysis to further understand revenue patterns.
 
-•	Real-Time Adjustments: Use daily performance metrics to adjust marketing efforts dynamically.
+•	**Real-Time Adjustments:** Use daily performance metrics to adjust marketing efforts dynamically.
 
 ### Limitations
 
