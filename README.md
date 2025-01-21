@@ -1,4 +1,7 @@
 # Spring Bike Shop Analysis
+![image](https://github.com/user-attachments/assets/098e2ea4-f18d-4aa4-b38e-91113b7a92f2)
+
+
 
 ## Table of Contents
 
