@@ -126,3 +126,5 @@ Price elasticity = increase in demand/increase in price = 64%/25% = 2.56%
 
  I had no need to remove any values from the dataset, however I added two new columns (revenue and profit), because they are need for the accuracy of my conclusions for this project.
 
+### Author
+[Lawan Opeyemi Mercy](https://www.linkedin.com/in/opeyemi-mercy-lawan-81a048276/)
