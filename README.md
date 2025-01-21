@@ -72,7 +72,7 @@ from cte a
 left join cost_table b
 on a.yr = b.yr
 ```
-
+Click 👉🏽[here](https://drive.google.com/drive/folders/19t1kHibnexRc3hhfh9rkCOjSHL3ybMXG?usp=sharing)👈🏽to see these files.
 ### Results and Findings
 
 #### Question 1
