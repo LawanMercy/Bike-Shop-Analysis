@@ -2,7 +2,6 @@
 ![image](https://github.com/user-attachments/assets/098e2ea4-f18d-4aa4-b38e-91113b7a92f2)
 
 
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -30,7 +29,7 @@ The datasets used for this analysis are "bike_share_yr_0.csv" file, "bike_share_
 ### Tools 
 
 - Microsoft SQL - Data cleaning,transformations. 
-- Power BI - Dax Functions,Creating reports.
+- Power BI - Dax Functions, Creating reports.
 
 ### Data Cleaning and Preparation
 
